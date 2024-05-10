@@ -1,0 +1,13 @@
+aliases:
+  dev: "context dev"
+  stage: "context stage"
+  prod: "context prod"
+  dp: deployments
+  ss: statefulsets
+  sec: v1/secrets
+  jo: jobs
+  cr: clusterroles
+  crb: clusterrolebindings
+  ro: roles
+  rb: rolebindings
+  np: networkpolicies
